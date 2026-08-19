@@ -2,14 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student passionate about building software
-and exploring Artificial Intelligence and Machine Learning.
-
-### 🌱 Currently Learning
-
-- Machine Learning
-- Artificial Intelligence
-- Full Stack Development
+CSE student passionate about AI/ML and Full-Stack Development. I enjoy building practical projects, learning new technologies, and turning ideas into real-world applications.
 
 ### 💡 Interested In
 
@@ -20,7 +13,7 @@ and exploring Artificial Intelligence and Machine Learning.
 
 ## 🌐 Socials
 
-[LinkedIn](https://www.linkedin.com/in/gadi-varun-8664a4327/) • [Email](varungadi12@gmailcom)
+[LinkedIn](https://www.linkedin.com/in/gadi-varun-8664a4327/) • [Email](mailto:varungadi12@gmailcom)
 
 ## 💻 Tech Stack
 
@@ -32,4 +25,8 @@ and exploring Artificial Intelligence and Machine Learning.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
