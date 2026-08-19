@@ -20,7 +20,7 @@ and exploring Artificial Intelligence and Machine Learning.
 
 ## 🌐 Socials
 
-[LinkedIn](YOUR_LINKEDIN) • [Email](YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/gadi-varun-8664a4327/) • [Email](varungadi12@gmailcom)
 
 ## 💻 Tech Stack
 
@@ -32,3 +32,4 @@ and exploring Artificial Intelligence and Machine Learning.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
